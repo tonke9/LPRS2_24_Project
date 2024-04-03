@@ -1,0 +1,8 @@
+# KiCAD 5
+*bak
+*.net
+fp-info-cache
+*.xml
+*.csv
+# KiCAD 6
+*-backups/
