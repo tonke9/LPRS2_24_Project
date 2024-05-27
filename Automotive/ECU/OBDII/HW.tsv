@@ -1,0 +1,17 @@
+Qty	Name	VID:PID	IC	Status	Problem	TODO	From	kw
+1	ELM327 Bluetooth Mini			TODO Android: OBD Diagnostics			Orbit NS	
+1	ELM327 Bluetooth				Android: OBD Diagnostics - not working		Ali	
+1	ELM327 USB	0918:7104			"/dev/ttyACM0
+scantool open with hack:
+sudo ln -s /dev/ttyACM0 /dev/ttyUSB0"		Ali	
+1	EOBD Programmer	0403:6001	FT232		"/dev/ttyUSB0 when unblacklisted FTDI
+scantool: open success"	"unblacklist_fdti.sh
+Comment
+blacklist ftdi_sio
+blacklist usbserial
+In
+/etc/modprobe.d/blacklist.conf"	Ali	
+								
+								
+0	ELM327 USB						https://obd2.rs/proizvod/elm327-usb/	
+0	MPPS V18						https://www.ecuedit.com/which-ecu-programmer-is-good-for-edc17-tuning-t21560	bosch edc17 programming
