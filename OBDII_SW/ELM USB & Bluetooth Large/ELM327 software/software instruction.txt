@@ -1,0 +1,4 @@
+
+
+we suggest that you can use "scantool_net113win",if you think that this software isn't easy to use,
+you can free to choose following software:EasyOBDII,OBD2Spy,ScanMaster-ELM.But them require lisence.

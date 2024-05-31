@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=OBD Auto Doctor
+Comment=OBD Car Diagnostics Software
+TryExec=obdautodoctor
+Exec=obdautodoctor
+Icon=obdautodoctor.png
+Terminal=false
+Categories=Qt;Utility;

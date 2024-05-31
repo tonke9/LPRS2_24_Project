@@ -1,0 +1,25 @@
+EasyObd II Version 2.2.0 is software for ScanTool.net
+OBD-II Interfaces only.
+
+RS232 - ISO , PWM , VPW , ElmScan5
+USB   - ISO , ElmScan5
+
+
+This software is FREE of charge and can be distributed freely.
+
+
+You may not alter this software in any way, including changing or
+removing any texts, messages or windows.
+
+EasyObd II Version 2.2.0 is distributed (as is) no warranty of
+any kind is expressed or implied. YOU USE AT YOUR OWN RISK.
+Any trouble code definitions provided are for guidance only.
+
+The author will not be liable for data loss, damages, loss of profits
+or any other kind of loss while using or misusing this software.
+
+Copyright ©2005-2007 EasyObdII.com - Steve Duddridge
+All Rights Reserved Worldwide.
+
+Portions ©2000-2007 Runtime Revolution Limited
+All Rights Reserved Worldwide.
