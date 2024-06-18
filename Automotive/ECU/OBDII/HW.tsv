@@ -1,10 +1,12 @@
 Qty	Name	VID:PID	IC	Status	Problem	TODO	From	kw
-1	ELM327 Bluetooth Mini			TODO Android: OBD Diagnostics			Orbit NS	
-1	ELM327 Bluetooth				Android: OBD Diagnostics - not working		Ali	
-1	ELM327 USB	0918:7104			"/dev/ttyACM0
-scantool open with hack:
-sudo ln -s /dev/ttyACM0 /dev/ttyUSB0"		Ali	
-1	EOBD Programmer	0403:6001	FT232		"/dev/ttyUSB0 when unblacklisted FTDI
+1	ELM327 Bluetooth Mini			Ne radi	"Ne mo?e da se uspostavi konekcija sa ureðajem
+Failed to connect (A socket operation failed because the destiantion host was down)
+"		Orbit NS	
+1	ELM327 Bluetooth			Ne radi	"Ne mo?e da se uspostavi konekcija sa ureðajem
+Failed to connect (A socket operation failed because the destiantion host was down)
+"		Ali	
+1	ELM327 USB	0918:7104		Radi	Na Windows nema problema, radi normalno		Ali	
+1	EOBD Programmer	0403:6001	FT232	Ne radi	"/dev/ttyUSB0 when unblacklisted FTDI
 scantool: open success"	"unblacklist_fdti.sh
 Comment
 blacklist ftdi_sio
