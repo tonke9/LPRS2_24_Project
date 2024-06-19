@@ -1,7 +1,6 @@
         		Name	Linux	apt	Src	Not old	ELM327 BlueTooth	ELM327 USB	Femsi	Status	Need license	Problem	TODO	URL	From	kw
-		OBD Auto Doctor	1		0		Ne radi	Radi			Trial verzija je dovoljna	"Ne primaju se podaci sa
-Injection emulatora"	"Slanje podataka sa emulatora
-I namestanje gasa da salje podatke"	https://www.obdautodoctor.com/download/	https://www.reddit.com/r/linuxquestions/comments/pzuu2f/obdii_car_diagnostic_software/	linux obd2 software
+		OBD Auto Doctor	1		0		radi I na linux I na windowsu	Radi			Trial verzija je dovoljna za osnovna 4 parametra	Uspesno se povezuje sa ECU uredjanjem ali ne prima nikakve podatke, kroz konverzaciju sa drugom grupom koja radi ECU, zakljucujemo da taj ECU nema mogucnosti simulacije I da zato se nista ne prikazuje na ECU	"Slanje podataka sa emulatora
+I namestanje gasa da salje podatke, "	https://www.obdautodoctor.com/download/	https://www.reddit.com/r/linuxquestions/comments/pzuu2f/obdii_car_diagnostic_software/	linux obd2 software
 		scantool	1	1	1			1		v1.21 with apt		V1.21 – Test not implemented	"Learn to use
 Try newer version (bin or src)"	https://samhobbs.co.uk/2015/04/scantool-obdii-car-diagnostic-software-linux	https://www.reddit.com/r/linuxquestions/comments/pzuu2f/obdii_car_diagnostic_software/	linux obd2 software
 																
@@ -11,15 +10,15 @@ Try newer version (bin or src)"	https://samhobbs.co.uk/2015/04/scantool-obdii-ca
 																
 									GPS					http://icculus.org/obdgpslogger/	https://elmelectronics.com/obdsoftware.html#Linux	linux obd2 software
 																
-		EasyOBDII									TODO		"Try on Wine
+		EasyOBDII					connected, but doesnt work	ne radi			requires licence	successful installation, doesnt connect to any OBD device	"Try on Wine
 Try on Win"	CD OBDII_SW/ELM USB & Bluetooth Large		
-		OBD2Spy									TODO		"Try on Wine
+		OBD2Spy					ne radi	ne radi			requires licence	on Wine doesnt work	"Try on Wine
 Try on Win"	CD OBDII_SW/ELM USB & Bluetooth Large		
-		ScanMaster-ELM									TODO		"Try on Wine
+		ScanMaster-ELM					ne radi	ne radi			requires licence	on Wine doesnt work	"Try on Wine
 Try on Win"	CD OBDII_SW/ELM USB & Bluetooth Large		
-		scantool_net113win									TODO					
-		wOBDCRAZY									TODO					
-		ELM327 Phone system software/For Andriod									TODO					
+		scantool_net113win					connected, but doesnt work	ne radi			requires licence	successful installation, doesnt connect to any OBD device				
+		wOBDCRAZY					ne radi	ne radi			requires licence	on Wine doesnt work				
+		ELM327 Phone system software/For Andriod					radi	ne radi			no licence needed	works with last years project, and successfully connection to small OBD2 device				
 																
 		???											"How to run install
 Try on Wine
